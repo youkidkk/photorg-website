@@ -1,9 +1,9 @@
-# routinap-website
+# photorg-website
 
-Routinap のウェブサイト。
+Photorg のウェブサイト。
 
 ## 公開ページ
 
-- [index.html](https://youkidkk.github.io/routinap-website/)
+- [index.html](https://youkidkk.github.io/photorg-website/)
 
-- [Routinap - プライバシーポリシー](https://youkidkk.github.io/routinap-website/privacy-policy.html)
+- [Photorg - プライバシーポリシー](https://youkidkk.github.io/photorg-website/privacy-policy.html)
